@@ -1,0 +1,19 @@
+/* .container{
+    background-color: lavender;
+    height: 50px;
+}
+
+.row{
+    background-color: red;
+    height: 50px;
+}
+
+.col{
+    border-color: black;
+    height: 40px;
+} */
+
+.content{
+    height: 40px;
+    font-size: 30px;
+}
